@@ -1,1 +1,24 @@
-download zip
+# 🚘 Car Modification App
+
+An Android application that allows users to browse, customize, and order car modifications. Built using **Kotlin**, it features a modern UI and is powered by **Firebase** for real-time backend services.
+
+## 📱 Features
+
+- User authentication (Signup/Login)
+- Browse and select car models
+- Customize car modifications (paint, wheels, accessories, etc.)
+- Add items to wishlist or cart
+- Place modification orders
+- Admin panel for managing services (optional)
+- Real-time database and storage using Firebase
+
+## 🛠 Tech Stack
+
+| Technology           | Purpose                            |
+|----------------------|------------------------------------|
+| Kotlin               | Android app development            |
+| Firebase Auth        | User authentication                |
+| Firebase Firestore   | Real-time database                 |
+| Firebase Storage     | Image and asset storage            |
+| Jetpack Compose      | Modern declarative UI (if used)    |
+| Material Components  | Classic Android UI (if used)       |
